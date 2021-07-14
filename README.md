@@ -1,4 +1,2 @@
 # hello-world
-Hi Humans!\
-
-I am Ridham Shah and I love to play Cricket!
+Hi I am Ridham Shah. I am interested in Machine Learning. I love to play Cricket. Also,I am a Coffee person.
